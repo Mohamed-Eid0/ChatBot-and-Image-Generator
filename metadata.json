@@ -1,0 +1,5 @@
+{
+  "name": "Image Generator and ChatBot",
+  "description": "A sleek and modern web application that combines a conversational AI chatbot with a creative image generator, powered by Google Gemini and Pollinations.ai.",
+  "requestFramePermissions": []
+}
